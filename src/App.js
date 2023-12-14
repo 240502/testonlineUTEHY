@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <a>
+          Sang
+        </a>
       </header>
     </div>
   );
